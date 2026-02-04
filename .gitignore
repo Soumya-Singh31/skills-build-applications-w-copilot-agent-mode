@@ -31,3 +31,25 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+# Virtual environments
+octofit-tracker/backend/venv/
+venv/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+.coverage
+htmlcov/
+
+# Database
+db.sqlite3
+
+# Django local settings
+local_settings.py
